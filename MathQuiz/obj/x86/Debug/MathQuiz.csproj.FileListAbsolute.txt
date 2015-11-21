@@ -1,0 +1,7 @@
+c:\users\bijoy\documents\visual studio 2010\Projects\MathQuiz\MathQuiz\obj\x86\Debug\MathQuiz.Form1.resources
+c:\users\bijoy\documents\visual studio 2010\Projects\MathQuiz\MathQuiz\obj\x86\Debug\MathQuiz.Properties.Resources.resources
+c:\users\bijoy\documents\visual studio 2010\Projects\MathQuiz\MathQuiz\obj\x86\Debug\MathQuiz.csproj.GenerateResource.Cache
+c:\users\bijoy\documents\visual studio 2010\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+c:\users\bijoy\documents\visual studio 2010\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+c:\users\bijoy\documents\visual studio 2010\Projects\MathQuiz\MathQuiz\obj\x86\Debug\MathQuiz.exe
+c:\users\bijoy\documents\visual studio 2010\Projects\MathQuiz\MathQuiz\obj\x86\Debug\MathQuiz.pdb
